@@ -18,4 +18,9 @@ public class Calculator {
         return t;
     }
 
+    public int multiply(int one, int two){
+        t = one * two;
+        return t;
+    }
+
 }
